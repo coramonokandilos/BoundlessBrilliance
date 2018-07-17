@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443614761347",
+    "firebase_url": "https://boundlessbrilliance-3f247.firebaseio.com",
+    "project_id": "boundlessbrilliance-3f247",
+    "storage_bucket": "boundlessbrilliance-3f247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443614761347:android:c8a4409002bc9181",
+        "android_client_info": {
+          "package_name": "com.example.coramonokandilos.boundless_brilliance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443614761347-rf3hvqnstjfra0aa2coasmjlkuhulu0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coramonokandilos.boundless_brilliance",
+            "certificate_hash": "ead89fcfb08402507f542603f98cc31c9c4dda36"
+          }
+        },
+        {
+          "client_id": "443614761347-4vigctgm9l4uikngb2b7obmq5r16f4ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBchh88vzCkclQ10gKFuSaJY9o7AGxdmMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443614761347-4vigctgm9l4uikngb2b7obmq5r16f4ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
