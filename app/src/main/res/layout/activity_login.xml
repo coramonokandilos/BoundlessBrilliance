@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="FireBase Auth Login"
+        android:text="Welcome! Login in or Sign up below."
         android:gravity="center"
         android:textAllCaps="true"
         android:textSize="16sp"
